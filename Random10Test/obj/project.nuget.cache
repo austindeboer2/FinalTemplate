@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1GifIVjoU3XklAbi2WHQEcy9+q820sW7n5wxKY0WCiMDxBbvryd6r8jTrJFYBJ1/spj3nHNJkkPgtQKZm7xkA==",
+  "dgSpecHash": "fP8IRXX4JUsWrKfv5HIlmImBPoj59ldTgppdkEXce3RY801+6zVrVOQmVrFxxAy0m8JhfziVJyNUbrfVs5WG1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\Random10Test\\Random10Test.csproj",
+  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\FinalTemplate\\Random10Test\\Random10Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yello\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\yello\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

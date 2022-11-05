@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MnrRDg6gg+SzMrpHUR9erPRAOBkONQXI7USSBDVI3GlvmJyA4nQFH4aQ9zIx1enbyF7KyU8+Cv18jqJrTBkzUg==",
+  "dgSpecHash": "fbiedD+cVmJvFPftkFz5VhYZNgiJq0zDRfvlfPH+D95kSBXRxABk7sB4qFK2s6lAM9Vb6o1VuIVoQEYvCsFhOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\RepeatWordTest\\RepeatWordTest.csproj",
+  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\FinalTemplate\\RepeatWordTest\\RepeatWordTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yello\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\yello\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

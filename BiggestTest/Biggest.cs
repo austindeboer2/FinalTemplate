@@ -25,16 +25,9 @@ namespace BiggestTest
                 int third = r.Next(1, 100);
                 while (third == first || third == second) third = r.Next();
                 int fourth = 0;
-                if(first > second)
-                {
-                    if (first > third) fourth = first;
-                    else fourth = third;
-                }
-                else
-                {
-                    if (second > third) fourth = second;
-                    else fourth = third;
-                }
+                if (first > second && first > third) fourth= first;
+                else if (second > first && second > third) fourth = second;
+                else fourth = third;
                 if (final.Biggest(first, second, third) != fourth)
                 {
                     passing = false;

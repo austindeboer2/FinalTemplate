@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0EuVaaGjP4SwlwNcQK93pbdQoTixU/0fFS6Th+vGgrpXX+FvEKa6f6ZXqikfwWZUWXOJAioKSOor3ou1iPK0A==",
+  "dgSpecHash": "Ocst7qX9ZbWRNyiJcSdpc7wkPnXi09B3BqV9taL/B1bjGvhS0Et7Lob9Ar/x2u1ukqo4FnmsVc/Xa9I84u2zPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\BiggestTest\\BiggestTest.csproj",
+  "projectFilePath": "C:\\Users\\yello\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Final\\FinalExam\\FinalTemplate\\BiggestTest\\BiggestTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yello\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\yello\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
