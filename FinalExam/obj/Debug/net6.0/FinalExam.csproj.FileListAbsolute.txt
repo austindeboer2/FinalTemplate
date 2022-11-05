@@ -1,0 +1,15 @@
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.exe
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.deps.json
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.runtimeconfig.json
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.dll
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\bin\Debug\net6.0\FinalExam.pdb
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.csproj.AssemblyReference.cache
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfo.cs
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.dll
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\refint\FinalExam.dll
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.pdb
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\FinalExam.genruntimeconfig.cache
+C:\Users\yello\OneDrive - Rockford Public Schools\Intro to Programming\Assignments and Projects\Templates\Final\FinalExam\FinalExam\obj\Debug\net6.0\ref\FinalExam.dll
