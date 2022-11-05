@@ -21,9 +21,9 @@ namespace BiggestTest
             {
                 int first = r.Next(1, 100);
                 int second = r.Next(1, 100);
-                while (second == first) second = r.Next();
+                while (second == first) second = r.Next(1,100);
                 int third = r.Next(1, 100);
-                while (third == first || third == second) third = r.Next();
+                while (third == first || third == second) third = r.Next(1,100);
                 int fourth = 0;
                 if (first > second && first > third) fourth= first;
                 else if (second > first && second > third) fourth = second;
